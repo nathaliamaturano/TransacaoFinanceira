@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3YT3J6SgElny7d8Sh23buzdkRw1Za6mWD2Y/DVdAZj8W1ST5b+tf7+BNL01rMuUF/4QszFkpzFt2S6nlmAhWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Downloads\\TransacaoFinanceira-main\\TransacaoFinanceira-main\\TransacaoFinanceira.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
